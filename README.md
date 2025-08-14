@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Next.js & advanced ML techniques**
 - 🤝 I’m looking to collaborate on **AI-powered web apps**
 - 💬 Ask me about **Frontend, UI/UX, AI, and Audio Engineering**
-- 📫 Reach me at **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at **jayasankarkumars@gmail.com**
 
 </td>
 <td width="40%" align="center">
@@ -64,6 +64,6 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksjayasankar&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ksjayasankar&theme=radical" height="160" />
 </p>
