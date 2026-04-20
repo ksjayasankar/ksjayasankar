@@ -8,7 +8,7 @@
 <td width="60%">
 
 - 🚀 I’m currently working on **a personalized fragrance recommendation system**
-- 🎨 Passionate about **Frontend Engineering**, **UI/UX Design**, and **AI Applications** using LLMs, ML, and DL
+- 🎨 Passionate about **Fullstack Engineering**, **UI/UX Design**, and **AI Applications** using LLMs, ML, and DL
 - 🎵 Fun fact: **I also do music production & audio engineering**
 
 ### 🌐 Connect with me:
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Next.js & advanced ML techniques**
 - 🤝 I’m looking to collaborate on **AI-powered web apps**
-- 💬 Ask me about **Frontend, UI/UX, AI, and Audio Engineering**
+- 💬 Ask me about **Fullstack, UI/UX, AI, and Audio Engineering**
 - 📫 Reach me at **jayasankarkumars@gmail.com**
 
 </td>
